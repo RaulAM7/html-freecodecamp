@@ -1,0 +1,57 @@
+header {
+
+    color: red;
+    
+    /*
+    background-image: url("https://itislands.com/wp-content/uploads/2019/06/Reboot-Academy-LOGO-peq.jpg");
+    */
+
+    display: block;
+    
+}
+
+/*
+.imgHeader{
+
+    width: auto;
+    height: auto;
+    display: flex;
+}
+*/
+
+.containerInputs {
+    border-color: black;
+    border-top: auto;
+    border-bottom: auto;
+    border-left: auto;
+    border-right: auto ;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+    font-size: 15px;
+}
+
+.inputs {
+    color: green;
+    border-color: green;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.listInputs {
+    color: red;
+    font-size: 15px;
+    margin-right: 100px
+}
+
+
+.listInputsLabels {
+    color:chocolate;
+    font-size: 16px;
+
+}
